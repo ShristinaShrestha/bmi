@@ -1,0 +1,400 @@
+energy,Doc 1.txt,0
+energy,Doc 2.txt,1
+energy,Doc 3.txt,1
+energy,Doc 4.txt,0
+energy,Doc 5.txt,1
+energy,Doc 6.txt,0
+energy,Doc 7.txt,0
+energy,Doc 8.txt,1
+energy,Doc 9.txt,0
+energy,Doc 10.txt,1
+energy,Doc 11.txt,0
+energy,Doc 12.txt,0
+energy,Doc 13.txt,0
+energy,Doc 14.txt,1
+energy,Doc 15.txt,0
+energy,Doc 16.txt,1
+energy,Doc 17.txt,0
+energy,Doc 18.txt,1
+energy,Doc 19.txt,1
+energy,Doc 20.txt,1
+solar power,Doc 1.txt,0
+solar power,Doc 2.txt,1
+solar power,Doc 3.txt,1
+solar power,Doc 4.txt,1
+solar power,Doc 5.txt,1
+solar power,Doc 6.txt,1
+solar power,Doc 7.txt,0
+solar power,Doc 8.txt,0
+solar power,Doc 9.txt,0
+solar power,Doc 10.txt,0
+solar power,Doc 11.txt,0
+solar power,Doc 12.txt,1
+solar power,Doc 13.txt,0
+solar power,Doc 14.txt,1
+solar power,Doc 15.txt,0
+solar power,Doc 16.txt,0
+solar power,Doc 17.txt,1
+solar power,Doc 18.txt,1
+solar power,Doc 19.txt,1
+solar power,Doc 20.txt,0
+wind challenges,Doc 1.txt,0
+wind challenges,Doc 2.txt,0
+wind challenges,Doc 3.txt,0
+wind challenges,Doc 4.txt,1
+wind challenges,Doc 5.txt,1
+wind challenges,Doc 6.txt,0
+wind challenges,Doc 7.txt,0
+wind challenges,Doc 8.txt,0
+wind challenges,Doc 9.txt,0
+wind challenges,Doc 10.txt,1
+wind challenges,Doc 11.txt,0
+wind challenges,Doc 12.txt,1
+wind challenges,Doc 13.txt,1
+wind challenges,Doc 14.txt,1
+wind challenges,Doc 15.txt,0
+wind challenges,Doc 16.txt,0
+wind challenges,Doc 17.txt,0
+wind challenges,Doc 18.txt,1
+wind challenges,Doc 19.txt,0
+wind challenges,Doc 20.txt,1
+hydropower impact,Doc 1.txt,1
+hydropower impact,Doc 2.txt,1
+hydropower impact,Doc 3.txt,0
+hydropower impact,Doc 4.txt,0
+hydropower impact,Doc 5.txt,0
+hydropower impact,Doc 6.txt,1
+hydropower impact,Doc 7.txt,0
+hydropower impact,Doc 8.txt,1
+hydropower impact,Doc 9.txt,0
+hydropower impact,Doc 10.txt,0
+hydropower impact,Doc 11.txt,1
+hydropower impact,Doc 12.txt,1
+hydropower impact,Doc 13.txt,1
+hydropower impact,Doc 14.txt,1
+hydropower impact,Doc 15.txt,1
+hydropower impact,Doc 16.txt,0
+hydropower impact,Doc 17.txt,0
+hydropower impact,Doc 18.txt,0
+hydropower impact,Doc 19.txt,0
+hydropower impact,Doc 20.txt,0
+urban energy,Doc 1.txt,0
+urban energy,Doc 2.txt,0
+urban energy,Doc 3.txt,1
+urban energy,Doc 4.txt,1
+urban energy,Doc 5.txt,1
+urban energy,Doc 6.txt,1
+urban energy,Doc 7.txt,1
+urban energy,Doc 8.txt,0
+urban energy,Doc 9.txt,1
+urban energy,Doc 10.txt,0
+urban energy,Doc 11.txt,0
+urban energy,Doc 12.txt,0
+urban energy,Doc 13.txt,1
+urban energy,Doc 14.txt,0
+urban energy,Doc 15.txt,0
+urban energy,Doc 16.txt,1
+urban energy,Doc 17.txt,0
+urban energy,Doc 18.txt,0
+urban energy,Doc 19.txt,1
+urban energy,Doc 20.txt,0
+offshore wind,Doc 1.txt,0
+offshore wind,Doc 2.txt,0
+offshore wind,Doc 3.txt,0
+offshore wind,Doc 4.txt,0
+offshore wind,Doc 5.txt,1
+offshore wind,Doc 6.txt,0
+offshore wind,Doc 7.txt,1
+offshore wind,Doc 8.txt,0
+offshore wind,Doc 9.txt,1
+offshore wind,Doc 10.txt,1
+offshore wind,Doc 11.txt,0
+offshore wind,Doc 12.txt,1
+offshore wind,Doc 13.txt,1
+offshore wind,Doc 14.txt,0
+offshore wind,Doc 15.txt,1
+offshore wind,Doc 16.txt,1
+offshore wind,Doc 17.txt,1
+offshore wind,Doc 18.txt,0
+offshore wind,Doc 19.txt,1
+offshore wind,Doc 20.txt,0
+geothermal source,Doc 1.txt,0
+geothermal source,Doc 2.txt,0
+geothermal source,Doc 3.txt,0
+geothermal source,Doc 4.txt,1
+geothermal source,Doc 5.txt,0
+geothermal source,Doc 6.txt,0
+geothermal source,Doc 7.txt,0
+geothermal source,Doc 8.txt,1
+geothermal source,Doc 9.txt,0
+geothermal source,Doc 10.txt,1
+geothermal source,Doc 11.txt,0
+geothermal source,Doc 12.txt,0
+geothermal source,Doc 13.txt,1
+geothermal source,Doc 14.txt,1
+geothermal source,Doc 15.txt,0
+geothermal source,Doc 16.txt,1
+geothermal source,Doc 17.txt,1
+geothermal source,Doc 18.txt,1
+geothermal source,Doc 19.txt,0
+geothermal source,Doc 20.txt,1
+renewable policies,Doc 1.txt,1
+renewable policies,Doc 2.txt,0
+renewable policies,Doc 3.txt,0
+renewable policies,Doc 4.txt,0
+renewable policies,Doc 5.txt,0
+renewable policies,Doc 6.txt,0
+renewable policies,Doc 7.txt,1
+renewable policies,Doc 8.txt,0
+renewable policies,Doc 9.txt,1
+renewable policies,Doc 10.txt,1
+renewable policies,Doc 11.txt,0
+renewable policies,Doc 12.txt,1
+renewable policies,Doc 13.txt,0
+renewable policies,Doc 14.txt,1
+renewable policies,Doc 15.txt,1
+renewable policies,Doc 16.txt,0
+renewable policies,Doc 17.txt,1
+renewable policies,Doc 18.txt,0
+renewable policies,Doc 19.txt,1
+renewable policies,Doc 20.txt,1
+hydropower future,Doc 1.txt,1
+hydropower future,Doc 2.txt,1
+hydropower future,Doc 3.txt,1
+hydropower future,Doc 4.txt,0
+hydropower future,Doc 5.txt,0
+hydropower future,Doc 6.txt,0
+hydropower future,Doc 7.txt,0
+hydropower future,Doc 8.txt,0
+hydropower future,Doc 9.txt,1
+hydropower future,Doc 10.txt,1
+hydropower future,Doc 11.txt,1
+hydropower future,Doc 12.txt,1
+hydropower future,Doc 13.txt,0
+hydropower future,Doc 14.txt,0
+hydropower future,Doc 15.txt,1
+hydropower future,Doc 16.txt,1
+hydropower future,Doc 17.txt,0
+hydropower future,Doc 18.txt,0
+hydropower future,Doc 19.txt,0
+hydropower future,Doc 20.txt,0
+energy storage,Doc 1.txt,0
+energy storage,Doc 2.txt,0
+energy storage,Doc 3.txt,0
+energy storage,Doc 4.txt,0
+energy storage,Doc 5.txt,1
+energy storage,Doc 6.txt,0
+energy storage,Doc 7.txt,0
+energy storage,Doc 8.txt,1
+energy storage,Doc 9.txt,1
+energy storage,Doc 10.txt,1
+energy storage,Doc 11.txt,1
+energy storage,Doc 12.txt,0
+energy storage,Doc 13.txt,1
+energy storage,Doc 14.txt,1
+energy storage,Doc 15.txt,1
+energy storage,Doc 16.txt,0
+energy storage,Doc 17.txt,1
+energy storage,Doc 18.txt,0
+energy storage,Doc 19.txt,0
+energy storage,Doc 20.txt,0
+solar capacity,Doc 1.txt,1
+solar capacity,Doc 2.txt,0
+solar capacity,Doc 3.txt,0
+solar capacity,Doc 4.txt,0
+solar capacity,Doc 5.txt,0
+solar capacity,Doc 6.txt,1
+solar capacity,Doc 7.txt,1
+solar capacity,Doc 8.txt,0
+solar capacity,Doc 9.txt,0
+solar capacity,Doc 10.txt,1
+solar capacity,Doc 11.txt,0
+solar capacity,Doc 12.txt,0
+solar capacity,Doc 13.txt,0
+solar capacity,Doc 14.txt,1
+solar capacity,Doc 15.txt,1
+solar capacity,Doc 16.txt,1
+solar capacity,Doc 17.txt,0
+solar capacity,Doc 18.txt,1
+solar capacity,Doc 19.txt,1
+solar capacity,Doc 20.txt,1
+wildlife impact,Doc 1.txt,1
+wildlife impact,Doc 2.txt,0
+wildlife impact,Doc 3.txt,1
+wildlife impact,Doc 4.txt,0
+wildlife impact,Doc 5.txt,0
+wildlife impact,Doc 6.txt,0
+wildlife impact,Doc 7.txt,1
+wildlife impact,Doc 8.txt,0
+wildlife impact,Doc 9.txt,1
+wildlife impact,Doc 10.txt,1
+wildlife impact,Doc 11.txt,0
+wildlife impact,Doc 12.txt,0
+wildlife impact,Doc 13.txt,1
+wildlife impact,Doc 14.txt,1
+wildlife impact,Doc 15.txt,1
+wildlife impact,Doc 16.txt,1
+wildlife impact,Doc 17.txt,0
+wildlife impact,Doc 18.txt,1
+wildlife impact,Doc 19.txt,0
+wildlife impact,Doc 20.txt,1
+renewable economics,Doc 1.txt,0
+renewable economics,Doc 2.txt,0
+renewable economics,Doc 3.txt,1
+renewable economics,Doc 4.txt,0
+renewable economics,Doc 5.txt,0
+renewable economics,Doc 6.txt,1
+renewable economics,Doc 7.txt,0
+renewable economics,Doc 8.txt,0
+renewable economics,Doc 9.txt,0
+renewable economics,Doc 10.txt,0
+renewable economics,Doc 11.txt,0
+renewable economics,Doc 12.txt,0
+renewable economics,Doc 13.txt,1
+renewable economics,Doc 14.txt,1
+renewable economics,Doc 15.txt,0
+renewable economics,Doc 16.txt,0
+renewable economics,Doc 17.txt,0
+renewable economics,Doc 18.txt,1
+renewable economics,Doc 19.txt,1
+renewable economics,Doc 20.txt,0
+solar land use,Doc 1.txt,0
+solar land use,Doc 2.txt,0
+solar land use,Doc 3.txt,0
+solar land use,Doc 4.txt,0
+solar land use,Doc 5.txt,0
+solar land use,Doc 6.txt,1
+solar land use,Doc 7.txt,0
+solar land use,Doc 8.txt,1
+solar land use,Doc 9.txt,1
+solar land use,Doc 10.txt,1
+solar land use,Doc 11.txt,0
+solar land use,Doc 12.txt,1
+solar land use,Doc 13.txt,0
+solar land use,Doc 14.txt,1
+solar land use,Doc 15.txt,0
+solar land use,Doc 16.txt,1
+solar land use,Doc 17.txt,0
+solar land use,Doc 18.txt,1
+solar land use,Doc 19.txt,0
+solar land use,Doc 20.txt,0
+wind turbines,Doc 1.txt,0
+wind turbines,Doc 2.txt,0
+wind turbines,Doc 3.txt,0
+wind turbines,Doc 4.txt,1
+wind turbines,Doc 5.txt,0
+wind turbines,Doc 6.txt,1
+wind turbines,Doc 7.txt,1
+wind turbines,Doc 8.txt,1
+wind turbines,Doc 9.txt,0
+wind turbines,Doc 10.txt,0
+wind turbines,Doc 11.txt,0
+wind turbines,Doc 12.txt,1
+wind turbines,Doc 13.txt,0
+wind turbines,Doc 14.txt,0
+wind turbines,Doc 15.txt,1
+wind turbines,Doc 16.txt,0
+wind turbines,Doc 17.txt,1
+wind turbines,Doc 18.txt,1
+wind turbines,Doc 19.txt,1
+wind turbines,Doc 20.txt,0
+environmental effects,Doc 1.txt,0
+environmental effects,Doc 2.txt,0
+environmental effects,Doc 3.txt,1
+environmental effects,Doc 4.txt,0
+environmental effects,Doc 5.txt,0
+environmental effects,Doc 6.txt,0
+environmental effects,Doc 7.txt,1
+environmental effects,Doc 8.txt,1
+environmental effects,Doc 9.txt,0
+environmental effects,Doc 10.txt,1
+environmental effects,Doc 11.txt,0
+environmental effects,Doc 12.txt,1
+environmental effects,Doc 13.txt,1
+environmental effects,Doc 14.txt,1
+environmental effects,Doc 15.txt,1
+environmental effects,Doc 16.txt,1
+environmental effects,Doc 17.txt,1
+environmental effects,Doc 18.txt,1
+environmental effects,Doc 19.txt,0
+environmental effects,Doc 20.txt,0
+solar efficiency,Doc 1.txt,1
+solar efficiency,Doc 2.txt,0
+solar efficiency,Doc 3.txt,0
+solar efficiency,Doc 4.txt,0
+solar efficiency,Doc 5.txt,0
+solar efficiency,Doc 6.txt,0
+solar efficiency,Doc 7.txt,1
+solar efficiency,Doc 8.txt,1
+solar efficiency,Doc 9.txt,0
+solar efficiency,Doc 10.txt,0
+solar efficiency,Doc 11.txt,1
+solar efficiency,Doc 12.txt,1
+solar efficiency,Doc 13.txt,0
+solar efficiency,Doc 14.txt,1
+solar efficiency,Doc 15.txt,1
+solar efficiency,Doc 16.txt,0
+solar efficiency,Doc 17.txt,0
+solar efficiency,Doc 18.txt,1
+solar efficiency,Doc 19.txt,1
+solar efficiency,Doc 20.txt,0
+energy security,Doc 1.txt,1
+energy security,Doc 2.txt,1
+energy security,Doc 3.txt,0
+energy security,Doc 4.txt,0
+energy security,Doc 5.txt,1
+energy security,Doc 6.txt,1
+energy security,Doc 7.txt,0
+energy security,Doc 8.txt,0
+energy security,Doc 9.txt,0
+energy security,Doc 10.txt,0
+energy security,Doc 11.txt,1
+energy security,Doc 12.txt,1
+energy security,Doc 13.txt,0
+energy security,Doc 14.txt,0
+energy security,Doc 15.txt,0
+energy security,Doc 16.txt,0
+energy security,Doc 17.txt,0
+energy security,Doc 18.txt,1
+energy security,Doc 19.txt,1
+energy security,Doc 20.txt,0
+carbon reduction,Doc 1.txt,1
+carbon reduction,Doc 2.txt,0
+carbon reduction,Doc 3.txt,0
+carbon reduction,Doc 4.txt,1
+carbon reduction,Doc 5.txt,0
+carbon reduction,Doc 6.txt,1
+carbon reduction,Doc 7.txt,0
+carbon reduction,Doc 8.txt,1
+carbon reduction,Doc 9.txt,1
+carbon reduction,Doc 10.txt,0
+carbon reduction,Doc 11.txt,1
+carbon reduction,Doc 12.txt,0
+carbon reduction,Doc 13.txt,0
+carbon reduction,Doc 14.txt,0
+carbon reduction,Doc 15.txt,0
+carbon reduction,Doc 16.txt,0
+carbon reduction,Doc 17.txt,0
+carbon reduction,Doc 18.txt,0
+carbon reduction,Doc 19.txt,0
+carbon reduction,Doc 20.txt,1
+tidal energy,Doc 1.txt,0
+tidal energy,Doc 2.txt,1
+tidal energy,Doc 3.txt,0
+tidal energy,Doc 4.txt,0
+tidal energy,Doc 5.txt,0
+tidal energy,Doc 6.txt,1
+tidal energy,Doc 7.txt,0
+tidal energy,Doc 8.txt,0
+tidal energy,Doc 9.txt,1
+tidal energy,Doc 10.txt,1
+tidal energy,Doc 11.txt,0
+tidal energy,Doc 12.txt,0
+tidal energy,Doc 13.txt,0
+tidal energy,Doc 14.txt,1
+tidal energy,Doc 15.txt,0
+tidal energy,Doc 16.txt,0
+tidal energy,Doc 17.txt,0
+tidal energy,Doc 18.txt,0
+tidal energy,Doc 19.txt,1
+tidal energy,Doc 20.txt,1
